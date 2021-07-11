@@ -61,6 +61,7 @@ body {
 
 .primary:hover {
     background-color: rgb(43, 90, 177);
+    cursor: pointer;
 }
 
 .primary:focus {
@@ -84,6 +85,7 @@ body {
     background-color: #007bff;
     color: white;
     border: none;
+    cursor: pointer;
 }
 
 .btn-primary:focus {
@@ -107,6 +109,7 @@ body {
 
 .secondary:hover {
     background-color: #5a5f64;
+    cursor: pointer;
 }
 
 .secondary:focus {
@@ -130,6 +133,7 @@ body {
     background-color: grey;
     border: 1px solid grey;
     color: white;
+    cursor: pointer;
 }
 
 .btn-secondary:focus {
@@ -152,6 +156,7 @@ body {
 
 .sucess:hover {
     background-color: #2b9b45;
+    cursor: pointer;
 }
 
 .sucess:focus {
@@ -175,6 +180,7 @@ body {
     background-color: #28a745;
     border: none;
     color: white;
+    cursor: pointer;
 }
 
 .btn-sucess:focus {
@@ -197,6 +203,7 @@ body {
 
 .danger:hover {
     background-color: #d34e5b;
+    cursor: pointer;
 }
 
 .danger:focus {
@@ -218,6 +225,7 @@ body {
 
 .btn-danger:hover {
     background-color: #ce2b2b;
+    cursor: pointer;
     border: none;
     color: white;
 }
@@ -241,6 +249,7 @@ body {
 
 .warning:hover {
     background-color: #d6a309;
+    cursor: pointer;
 }
 
 .warning:focus {
@@ -264,6 +273,7 @@ body {
     background-color: #ffc107;
     border: none;
     color: white;
+    cursor: pointer;
 }
 
 .btn-warning:focus {
@@ -288,6 +298,7 @@ body {
 
 .info:hover {
     background-color: #639ea7;
+    cursor: pointer;
 }
 
 .btn-info {
@@ -307,6 +318,7 @@ body {
     background-color: #17a2b8;
     border: none;
     color: white;
+    cursor: pointer;
 }
 
 .btn-info:focus {
@@ -329,6 +341,7 @@ body {
 
 .light:hover {
     background-color: #e4e7eb;
+    cursor: pointer;
 }
 
 .light:focus {
@@ -352,6 +365,7 @@ body {
     background-color: rgb(241, 239, 239);
     color: rgb(31, 29, 29);
     border: none;
+    cursor: pointer;
 }
 
 .btn-light:focus {
@@ -373,6 +387,7 @@ body {
 
 .dark:hover {
     background-color: rgb(31, 30, 30);
+    cursor: pointer;
 }
 
 .dark:focus {
@@ -396,6 +411,7 @@ body {
 .btn-dark:hover {
     background-color: black;
     color: white;
+    cursor: pointer;
 }
 
 .btn-dark:focus {
@@ -431,6 +447,7 @@ body {
 
 .large:hover {
     background-color: rgb(29, 98, 228);
+    cursor: pointer;
 }
 
 .large:focus {
@@ -451,6 +468,7 @@ body {
 
 .large-1:hover {
     background-color: rgb(100, 100, 105);
+    cursor: pointer;
 }
 
 .large-1:focus {
@@ -473,6 +491,7 @@ body {
 
 .small:hover {
     background-color: #0f69c9;
+    cursor: pointer;
 }
 
 .small:focus {
@@ -494,6 +513,7 @@ body {
 
 .small-1:hover {
     background-color: #676e74;
+    cursor: pointer;
 }
 
 .small-1:focus {
@@ -600,10 +620,12 @@ body {
 
 .go:hover {
     background-color: #0168d6;
+    cursor: pointer;
 }
 
 .go-1:hover {
     background-color: #0168d6;
+    cursor: pointer;
 }
 
 .go-1:focus {
@@ -763,6 +785,7 @@ body {
 
 .submit:hover {
     background-color: #0168d6;
+    cursor: pointer;
 }
 
 .submit:focus {
